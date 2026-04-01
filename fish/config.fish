@@ -12,6 +12,7 @@ if test -f ~/.env
 end
 
 abbr -a dc docker compose
+abbr -a v nvim
 
 function fish_prompt
     # Parse git branch
